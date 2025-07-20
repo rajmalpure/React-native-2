@@ -16,7 +16,6 @@ A modern, intuitive React Native app for tracking personal income and expenses w
 |-------------|-----------------|-------------------|
 | ![Home](https://via.placeholder.com/200x400/6366f1/ffffff?text=Home+Screen) | ![Add](https://via.placeholder.com/200x400/4CAF50/ffffff?text=Add+Transaction) | ![History](https://via.placeholder.com/200x400/2196F3/ffffff?text=Transaction+List) |
 
-> **Replace placeholder images:** Take actual screenshots of your app and upload them to your repository's `/screenshots` folder, then update the image paths above.
 
 ## ✨ Features
 
@@ -50,19 +49,6 @@ A modern, intuitive React Native app for tracking personal income and expenses w
 | **React Hooks** | State management | Built-in |
 | **StyleSheet** | Styling system | Built-in |
 
-## 🏗️ Architecture
-
-```
-PersonalFinanceTracker/
-├── 📱 App.js                 # Main application component
-├── 📁 assets/                # Images, icons, splash screens
-├── 📁 components/           # Reusable UI components (future)
-├── 📁 screens/              # Screen components (future)
-├── 📁 utils/                # Helper functions (future)
-├── 📄 app.json              # Expo configuration
-├── 📄 package.json          # Dependencies and scripts
-└── 📖 README.md             # Project documentation
-```
 
 ## 🚀 Getting Started
 
@@ -225,11 +211,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**  
 *React Native Developer*
-
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
